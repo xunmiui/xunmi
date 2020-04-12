@@ -1,0 +1,31 @@
+.about{
+	width:730px;
+	height:810px;
+	margin-top:15px;
+}
+.about_content{
+	width:680px;
+	height:800px;
+	background:url(../images/page/about.jpg);
+    line-height: 24px;
+	margin: 0px auto;
+}
+.about h1{
+	font-size: 35px;
+	padding:25px 0px 10px 15px;
+}
+.about_content_top{
+	width:380px;
+    text-indent: 2em;
+	margin-left:15px;
+	padding-bottom:7px;
+	font-size: 16px;
+	border-bottom:solid 1px #C0C0C0;
+}
+.about_content h2{
+	padding:10px 0px 0px 15px;
+}
+.about_content p{
+	font-size:15px;
+    text-indent:2em;
+}
